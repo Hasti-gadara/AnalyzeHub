@@ -1,0 +1,11 @@
+Name,Department,Salary,Age,Joining_Date
+Amit,IT,60000.0,25.0,2022-01-15
+Neha,HR,50000.0,28.0,2021-06-20
+Raj,IT,70000.0,30.0,2020-03-10
+Priya,Finance,65000.0,27.0,2022-07-01
+Karan,IT,,29.0,2021-09-12
+Simran,HR,52000.0,26.0,2023-02-18
+Arjun,Finance,72000.0,31.0,2020-11-25
+Riya,IT,68000.0,,2022-05-30
+Vikas,HR,48000.0,24.0,2023-01-10
+Anjali,Finance,75000.0,32.0,2019-08-14
